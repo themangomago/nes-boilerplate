@@ -9,4 +9,4 @@ This boilerplate as well as the assets are licensed under [LICENSE](./LICENSE). 
 
 # Donation
 
-You 👍 my open source projects and contributions? You can support me by buying me a [:coffee:](https://ko-fi.com/mago55). Thank you ❤️!
+You 👍 my open source projects and contributions? You can support me by buying me a [:coffee: @ Ko-fi](https://ko-fi.com/mago55). Thank you ❤️!
